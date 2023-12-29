@@ -90,7 +90,7 @@ void	ft_bzero(void *s, size_t l)
 int	main(void)
 {
 	int fd;
-	fd = open("9amra.txt", O_RDONLY);
+	fd = open("9alb.txt", O_RDONLY);
 	printf("%s", get_next_line(fd));
 	printf("%s", get_next_line(fd));
 	printf("%s", get_next_line(fd));
