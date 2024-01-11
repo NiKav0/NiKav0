@@ -14,9 +14,7 @@
 # define LIBFT_H
 
 # include <unistd.h>
-# include <stddef.h>
 # include <stdlib.h>
-# include <string.h>
 
 void			ft_bzero(void *s, size_t l);
 int				ft_isalpha(int c);
